@@ -1,6 +1,6 @@
 # hass-config
 
-These are my Home Assistant configuration files, my setup comprises of:
+These are my Home Assistant configuration files. Obviously my secrets.yaml is missing some entries, my hardware setup comprises of:
 
 Raspberry Pi running default Raspbian
 
